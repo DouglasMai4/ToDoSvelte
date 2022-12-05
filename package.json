@@ -17,8 +17,5 @@
 		"vite": "^3.2.4"
 	},
 	"type": "module",
-	"engines": {
-		"node": ">=16"
-	},
 	"dependencies": {}
 }
