@@ -16,5 +16,8 @@
 		"svelte": "^3.53.1",
 		"vite": "^3.2.4"
 	},
-	"type": "module"
+	"type": "module",
+	"engines": {
+		"node": ">=16"
+	}
 }
